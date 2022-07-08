@@ -1,1 +1,1 @@
-# scatter-plot-with-two-variables
+I chose the two variables in this set because they affect and relate to eachother. I find it interesting to see people's personal finace choices and how it realtes to their debt and how it affects their life. These two variables show how credit card balance can relate to debt. In the scatter plot, the reationship between them seems pretty constant. The scatter plot shows that the greater credit card balance someone has, the less debt they have. 
